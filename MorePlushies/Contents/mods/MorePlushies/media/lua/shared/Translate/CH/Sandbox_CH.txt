@@ -1,0 +1,12 @@
+Sandbox_CH = {
+   Sandbox_MorePlushies = "更多填充玩偶",
+   Sandbox_MorePlushies_LootGeneral = "一般戰利品設定",
+	Sandbox_MorePlushies_LootGeneral_tooltip = "確定在分配中搶奪公仔的基本數量",
+   Sandbox_MorePlushies_SpawnRate = "產出率設定",
+   Sandbox_MorePlushies_SpawnRate_tooltip = "預設的產出率非常低, 數值愈高則產出愈豐富",
+      Sandbox_MorePlushies_LootGeneral_option1 = "低",
+      Sandbox_MorePlushies_LootGeneral_option2 = "正常",
+      Sandbox_MorePlushies_LootGeneral_option3 = "高",
+      Sandbox_MorePlushies_LootGeneral_option4 = "非常高",
+      Sandbox_MorePlushies_LootGeneral_option5 = "瘋狂",
+}

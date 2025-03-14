@@ -1,0 +1,22 @@
+module MorePlushies {
+
+	recipe Unzip
+	{
+		GIRPlushie=1,
+		Result:GIR2Plushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:True,
+		NeedToBeLearn:False,
+	}
+	
+	recipe Zip
+	{
+		GIR2Plushie=1,
+		Result:GIRPlushie=1,
+		Time:60.0,
+		Category:Decorations,
+		CanBeDoneFromFloor:True,
+		NeedToBeLearn:False,
+	}
+}

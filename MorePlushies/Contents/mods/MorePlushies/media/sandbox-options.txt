@@ -1,0 +1,19 @@
+VERSION = 1,
+
+option MorePlushies.Loot
+{
+	type = enum,
+	default = 1,
+	numValues = 5,
+	page = MorePlushies,
+	translation = MorePlushies_LootGeneral,
+}
+
+option MorePlushies.SpawnRate = {
+	type = integer,
+	default = 2,
+	min = 1,
+	max = 10,
+	page = MorePlushies,
+	translation = MorePlushies_SpawnRate,
+}

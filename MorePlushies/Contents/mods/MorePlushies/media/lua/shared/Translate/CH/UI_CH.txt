@@ -1,0 +1,3 @@
+UI_CH = {
+	UI_Item_MishkaPlushie_Description = "一個迷人且總想要看著你的小玩偶",
+}

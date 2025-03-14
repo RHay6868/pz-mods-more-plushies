@@ -1,0 +1,4 @@
+Recipes_CN = {
+	Recipe_Zip = "压缩",
+	Recipe_Unzip = "解压缩",
+}

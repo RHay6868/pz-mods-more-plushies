@@ -1,0 +1,61 @@
+version=1
+id=2795036124
+title=MorePlushies!
+description=[h1]More Plushies to Collect [/h1]
+description=Wanted to expand your plushie collection? Well here are quite a few new additions with more to come.
+description=
+description=[h1]Current Additions:[/h1]
+description=[list]
+description=  [*]Batman Spiffo
+description=  [*]Bio Spiffo
+description=  [*]Stitches Spiffo
+description=  [*]Chocobi
+description=  [*]Death Bee
+description=  [*]GIR
+description=  [*]Grebdioz
+description=  [*]Grogu
+description=  [*]Royale Burger
+description=  [*]Pinky Pig
+description=  [*]Marshmallow the Axolotl
+description=  [*]Mini Moose
+description=  [*]Mishka
+description=  [*]Cactuar
+description=  [*]Mog the Moogle
+description=  [*]Rei Chikita
+description=  [*]Pochita
+description=  [*]Dave
+description=  [*]Udders the Cow
+description=[/list]
+description=
+description=[h1]Is it safe to add / remove?[/h1]
+description=No original items were edited, should be able to add or remove this mod at any time. Safe to say you will lose any items you gained from this mod if you remove it. [b][i]NOTE: This has not been thoroughly tested against other mods or in MP[/i][/b]
+description=
+description=[h1]Where do I find the plushies?[/h1]
+description=A loot table has been added to spawn these mostly in Toy Stores but can be rarely found in random crates, children's wardrobes, and in Knox prison cells similar to vanilla loot distribution.
+description=
+description=[h1]Additional Information[/h1]
+description=Special thanks to Authentic Peach the author of Authentic Z mod for the inspiration. I thought it was important to make these function with the attachable plushie slot on the bags.
+description=---------------------------------------------------------------------------------------------
+description=
+description=[img]https://steamuserimages-a.akamaihd.net/ugc/1660101375273576639/0C12E325C464F5DC166E5FF2AB70A43581BED64F/[/img]
+description=
+description=I appreciate your interest in my mod, please don't forget to rate it. If you feel especially inclined, donating a [url=https://ko-fi.com/ryanhayes]coffee[/url] goes a long way for me.
+description=
+description=[url=https://ko-fi.com/ryanhayes][img]https://i.imgur.com/2uTskWl.png[/img][/url]
+description=
+description=[b]Other workshops by me:[/b]
+description=
+description=[table]
+description=[tr]
+description=[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2801575579][img]https://steamuserimages-a.akamaihd.net/ugc/1813272005283694112/FDD94F2E4F3994DBEC1F1710A88F98829843649B/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[/img][/url][/td]
+description=[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2792074336][img]https://steamuserimages-a.akamaihd.net/ugc/1816647644125465954/DE4DA8B080356B19B39B66016D9B1E4AFAF4A080/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[/img][/url][/td]
+description=[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2793110189][img]https://steamuserimages-a.akamaihd.net/ugc/1816647644133754047/697A219081145DB98331EFB44977800571E18BEA/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[/img][/url][/td]
+description=[/tr][/table]
+description=
+description=[quote=author] Do not copy, modify, redistribute, or repackage this mod without explicit permission from the creator. This includes on or off of steam, within another mod or modpack, or a different modified version. This item can be published on Steam only through an account with the name Mackus103.
+description=© 2022-2022 Mackus103  [/quote]
+description=-------------------------------------------
+description=Workshop ID: 2795036124
+description=Mod ID: MorePlushies
+tags=Items;Misc;Models;Silly/Fun;Textures
+visibility=public

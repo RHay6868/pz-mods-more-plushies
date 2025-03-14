@@ -1,0 +1,621 @@
+module Base
+{
+	model PigPlush
+	{
+		mesh = plushpig,
+        	texture = PigTexture,
+        	scale = 0.4,
+	}
+	
+	model PigPlush_Static
+	{
+		mesh = plushpig_static,
+        	texture = PigTexture,
+        	scale = 0.4,
+	}
+
+	model AxolotlPlush
+	{
+		mesh = plushaxolotl,
+        	texture = AxolotlTexture,
+        	scale = 0.4,
+	}
+	
+	model AxolotlPlush_Static
+	{
+		mesh = plushaxolotl_static,
+        	texture = AxolotlTexture,
+        	scale = 0.4,
+	}
+
+	model RoyalePlush
+	{
+		mesh = plushroyale,
+        	texture = RoyaleTexture,
+        	scale = 0.4,
+	}
+	
+	model RoyalePlush_Static
+	{
+		mesh = plushroyale_static,
+        	texture = RoyaleTexture,
+        	scale = 0.4,
+	}
+
+	model BioPlush
+	{
+		mesh = plushspiffo,
+        	texture = BioTexture,
+        	scale = 0.4,
+	}
+	
+	model BioPlush_Static
+	{
+		mesh = plushspiffo_static,
+        	texture = BioTexture,
+        	scale = 0.4,
+	}
+
+	model BatmanPlush
+	{
+		mesh = plushspiffo,
+        	texture = BatmanTexture,
+        	scale = 0.4,
+	}
+	
+	model BatmanPlush_Static
+	{
+		mesh = plushspiffo_static,
+        	texture = BatmanTexture,
+        	scale = 0.4,
+	}
+
+	model StitchesPlush
+	{
+		mesh = plushspiffo,
+        	texture = StitchesTexture,
+        	scale = 0.4,
+	}
+	
+	model StitchesPlush_Static
+	{
+		mesh = plushspiffo_static,
+        	texture = StitchesTexture,
+        	scale = 0.4,
+	}
+	
+	model ChocobiPlush
+	{
+		mesh = plushchocobi,
+        	texture = ChocobiTexture,
+        	scale = 0.4,
+	}
+	
+	model ChocobiPlush_Static
+	{
+		mesh = plushchocobi_static,
+        	texture = ChocobiTexture,
+        	scale = 0.4,
+	}
+	
+	model GrebdiozPlush
+	{
+		mesh = plushgrebdioz,
+        	texture = GrebdiozTexture,
+        	scale = 0.4,
+	}
+	
+	model GrebdiozPlush_Static
+	{
+		mesh = plushgrebdioz_static,
+        	texture = GrebdiozTexture,
+        	scale = 0.4,
+	}
+	
+	model GIRPlush
+	{
+		mesh = plushgir,
+        	texture = GIRTexture,
+        	scale = 0.4,
+	}
+	
+	model GIRPlush_Static
+	{
+		mesh = plushGIR_static,
+        	texture = GIRTexture,
+        	scale = 0.4,
+	}
+	
+	model GIR2Plush
+	{
+		mesh = plushgir2,
+        	texture = GIR2Texture,
+        	scale = 0.4,
+	}
+	
+	model GIR2Plush_Static
+	{
+		mesh = plushGIR2_static,
+        	texture = GIR2Texture,
+        	scale = 0.4,
+	}
+
+	model DeathBeePlush
+	{
+		mesh = plushdeathbee,
+        	texture = DeathBeeTexture,
+        	scale = 0.4,
+	}
+	
+	model DeathBeePlush_Static
+	{
+		mesh = plushdeathbee_static,
+        	texture = DeathBeeTexture,
+        	scale = 0.4,
+	}
+
+	model GroguPlush
+	{
+		mesh = plushgrogu,
+        	texture = GroguTexture,
+        	scale = 0.4,
+	}
+	
+	model GroguPlush_Static
+	{
+		mesh = plushgrogu_static,
+        	texture = GroguTexture,
+        	scale = 0.4,
+	}
+
+	model MiniMoosePlush
+	{
+		mesh = plushminimoose,
+        	texture = MiniMooseTexture,
+        	scale = 0.4,
+	}
+	
+	model MiniMoosePlush_Static
+	{
+		mesh = plushminimoose_static,
+        	texture = MiniMooseTexture,
+        	scale = 0.4,
+	}
+
+	model MishkaPlush
+	{
+		mesh = plushmishka,
+        	texture = MishkaTexture,
+        	scale = 0.4,
+	}
+
+	model MishkaPlush_Static
+	{
+		mesh = plushmishka_static,
+        	texture = MishkaTexture,
+        	scale = 0.4,
+	}
+
+	model CactuarPlush
+	{
+		mesh = plushcactuar,
+        	texture = CactuarTexture,
+        	scale = 0.4,
+	}
+	
+	model CactuarPlush_Static
+	{
+		mesh = plushcactuar_static,
+        	texture = CactuarTexture,
+        	scale = 0.4,
+	}
+
+	model MogPlush
+	{
+		mesh = plushMog,
+        	texture = MogTexture,
+        	scale = 0.4,
+	}
+	
+	model MogPlush_Static
+	{
+		mesh = plushmog_static,
+        	texture = MogTexture,
+        	scale = 0.4,
+	}
+
+	model ReiPlush
+	{
+		mesh = plushRei,
+        	texture = ReiTexture,
+        	scale = 0.4,
+	}
+	
+	model ReiPlush_Static
+	{
+		mesh = plushRei_static,
+        	texture = ReiTexture,
+        	scale = 0.4,
+	}
+
+	model PochitaPlush
+	{
+		mesh = plushPochita,
+        	texture = PochitaTexture,
+        	scale = 0.4,
+	}
+	
+	model PochitaPlush_Static
+	{
+		mesh = plushPochita_static,
+        	texture = PochitaTexture,
+        	scale = 0.4,
+	}
+
+	model DaveMinionPlush
+	{
+		mesh = plushdaveminion,
+        	texture = DaveMinionTexture,
+        	scale = 0.4,
+	}
+	
+	model DaveMinionPlush_Static
+	{
+		mesh = plushdaveminion_static,
+        	texture = DaveMinionTexture,
+        	scale = 0.4,
+	}
+
+	model UddersPlush
+	{
+		mesh = plushudders,
+        	texture = UddersTexture,
+        	scale = 0.4,
+	}
+	
+	model UddersPlush_Static
+	{
+		mesh = plushudders_static,
+        	texture = UddersTexture,
+        	scale = 0.4,
+	}
+
+	model GnomeAmericanPlush
+	{
+		mesh = plushgnomeamerican,
+        	texture = GnomeAmericanTexture,
+        	scale = 0.4,
+	}
+	
+	model GnomeAmericanPlush_Static
+	{
+		mesh = plushgnomeamerican_static,
+        	texture = GnomeAmericanTexture,
+        	scale = 0.4,
+	}
+
+	model ShredderPlush
+	{
+		mesh = plushShredder,
+        	texture = ShredderTexture,
+        	scale = 0.4,
+	}
+	
+	model ShredderPlush_Static
+	{
+		mesh = plushShredder_static,
+        	texture = ShredderTexture,
+        	scale = 0.4,
+	}
+
+	model SplinterPlush
+	{
+		mesh = plushSplinter,
+        	texture = SplinterTexture,
+        	scale = 0.4,
+	}
+	
+	model SplinterPlush_Static
+	{
+		mesh = plushSplinter_static,
+        	texture = SplinterTexture,
+        	scale = 0.4,
+	}
+
+	model LeonardoPlush
+	{
+		mesh = plushLeonardo,
+        	texture = LeonardoTexture,
+        	scale = 0.4,
+	}
+
+	model LeonardoPlush_Static
+	{
+		mesh = plushLeonardo_static,
+        	texture = LeonardoTexture,
+        	scale = 0.4,
+	}
+
+	model RaphaelPlush
+	{
+		mesh = plushRaphael,
+        	texture = RaphaelTexture,
+        	scale = 0.4,
+	}
+
+	model RaphaelPlush_Static
+	{
+		mesh = plushRaphael_static,
+        	texture = RaphaelTexture,
+        	scale = 0.4,
+	}
+
+	model DonatelloPlush
+	{
+		mesh = plushDonatello,
+        	texture = DonatelloTexture,
+        	scale = 0.4,
+	}
+
+	model DonatelloPlush_Static
+	{
+		mesh = plushDonatello_static,
+        	texture = DonatelloTexture,
+        	scale = 0.4,
+	}
+
+	model MichelangeloPlush
+	{
+		mesh = plushMichelangelo,
+        	texture = MichelangeloTexture,
+        	scale = 0.4,
+	}
+
+	model MichelangeloPlush_Static
+	{
+		mesh = plushMichelangelo_static,
+        	texture = MichelangeloTexture,
+        	scale = 0.4,
+	}
+
+	model PinkKittenPlush
+	{
+		mesh = plushPinkKitten,
+        	texture = PinkKittenTexture,
+        	scale = 0.4,
+	}
+
+	model PinkKittenPlush_Static
+	{
+		mesh = plushPinkKitten_static,
+        	texture = PinkKittenTexture,
+        	scale = 0.4,
+	}
+
+	model FloppyPlush
+	{
+		mesh = plushfloppy,
+        	texture = FloppyTexture,
+        	scale = 0.4,
+	}
+
+	model FloppyPlush_Static
+	{
+		mesh = plushfloppy_static,
+        	texture = FloppyTexture,
+        	scale = 0.4,
+	}
+
+	model GoatPlush
+	{
+		mesh = plushGoat,
+        	texture = GoatTexture,
+        	scale = 0.4,
+	}
+
+	model GoatPlush_Static
+	{
+		mesh = plushGoat_static,
+        	texture = GoatTexture,
+        	scale = 0.4,
+	}
+	
+	model UnicornPlush
+	{
+		mesh = plushUnicorn,
+        	texture = UnicornTexture,
+        	scale = 0.4,
+	}
+
+	model UnicornPlush_Static
+	{
+		mesh = plushUnicorn_static,
+        	texture = UnicornTexture,
+        	scale = 0.4,
+	}
+
+	model TurtlePlush
+	{
+		mesh = plushTurtle,
+        	texture = TurtleTexture,
+        	scale = 0.4,
+	}
+
+	model TurtlePlush_Static
+	{
+		mesh = plushTurtle_static,
+        	texture = TurtleTexture,
+        	scale = 0.4,
+	}
+
+	model OtterPlush
+	{
+		mesh = plushOtter,
+        	texture = OtterTexture,
+        	scale = 0.4,
+	}
+
+	model OtterPlush_Static
+	{
+		mesh = plushOtter_static,
+        	texture = OtterTexture,
+        	scale = 0.4,
+	}
+
+	model Porg1Plush
+	{
+		mesh = plushporg,
+        	texture = Porg1Texture,
+        	scale = 0.4,
+	}
+
+	model Porg1Plush_Static
+	{
+		mesh = plushporg_static,
+        	texture = Porg1Texture,
+        	scale = 0.4,
+	}
+
+	model Porg2Plush
+	{
+		mesh = plushporg,
+        	texture = Porg2Texture,
+        	scale = 0.4,
+	}
+
+	model Porg2Plush_Static
+	{
+		mesh = plushporg_static,
+        	texture = Porg2Texture,
+        	scale = 0.4,
+	}
+
+	model Ewok1Plush
+	{
+		mesh = plushewok,
+        	texture = Ewok1Texture,
+        	scale = 0.4,
+	}
+
+	model Ewok1Plush_Static
+	{
+		mesh = plushewok_static,
+        	texture = Ewok1Texture,
+        	scale = 0.4,
+	}
+
+	model Ewok2Plush
+	{
+		mesh = plushewok,
+        	texture = Ewok2Texture,
+        	scale = 0.4,
+	}
+
+	model Ewok2Plush_Static
+	{
+		mesh = plushewok_static,
+        	texture = Ewok2Texture,
+        	scale = 0.4,
+	}
+
+	model MikeWazowskiPlush
+	{
+		mesh = plushMikeWazowski,
+        	texture = MikeWazowskiTexture,
+        	scale = 0.4,
+	}
+
+	model MikeWazowskiPlush_Static
+	{
+		mesh = plushMikeWazowski_static,
+        	texture = MikeWazowskiTexture,
+        	scale = 0.4,
+	}
+
+	model SullyPlush
+	{
+		mesh = plushSully,
+        	texture = SullyTexture,
+        	scale = 0.4,
+	}
+
+	model SullyPlush_Static
+	{
+		mesh = plushSully_static,
+        	texture = SullyTexture,
+        	scale = 0.4,
+	}
+
+	model StitchPlush
+	{
+		mesh = plushStitch,
+        	texture = StitchTexture,
+        	scale = 0.4,
+	}
+
+	model StitchPlush_Static
+	{
+		mesh = plushStitch_static,
+        	texture = StitchTexture,
+        	scale = 0.4,
+	}
+
+	model HexDollPlush
+	{
+		mesh = plushHexDoll,
+        	texture = HexDollTexture,
+        	scale = 0.4,
+	}
+
+	model HexDollPlush_Static
+	{
+		mesh = plushHexDoll_static,
+        	texture = HexDollTexture,
+        	scale = 0.4,
+	}
+
+	model MurderMonkeyPlush
+	{
+		mesh = plushMurderMonkey,
+        	texture = MurderMonkeyTexture,
+        	scale = 0.4,
+	}
+
+	MurderMonkeyPlush
+	MurderMonkeyPlush_Static
+
+	model MurderMonkeyPlush_Static
+	{
+		mesh = plushMurderMonkey_static,
+        	texture = MurderMonkeyTexture,
+        	scale = 0.4,
+	}
+
+	model PuarPlush
+	{
+		mesh = plushPuar,
+        	texture = PuarTexture,
+        	scale = 0.4,
+	}
+
+	model PuarPlush_Static
+	{
+		mesh = plushPuar_static,
+        	texture = PuarTexture,
+        	scale = 0.4,
+	}
+
+	model PiranhaPlush
+	{
+		mesh = plushPiranha,
+        	texture = PiranhaTexture,
+        	scale = 0.4,
+	}
+
+	model PiranhaPlush_Static
+	{
+		mesh = plushPiranha_static,
+        	texture = PiranhaTexture,
+        	scale = 0.4,
+	}
+}

@@ -1,0 +1,3 @@
+UI_ES = {
+	UI_Item_MishkaPlushie_Description = "Un perrito adorable que quiere mantenerte a la vista en todo momento",
+}

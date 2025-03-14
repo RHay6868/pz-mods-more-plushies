@@ -1,0 +1,12 @@
+Sandbox_KO = {
+   Sandbox_MorePlushies = "더 많은 장난감",
+   Sandbox_MorePlushies_LootGeneral = "일반 전리품 설정",
+	Sandbox_MorePlushies_LootGeneral_tooltip = "분배에서 장난감을 약탈할 기본 수량 설정",
+   Sandbox_MorePlushies_SpawnRate = "생성 비율 곱하기",
+   Sandbox_MorePlushies_SpawnRate_tooltip = "기본 생성이 매우 낮습니다. 숫자가 높을수록 생성이 더 풍부해집니다",
+      Sandbox_MorePlushies_LootGeneral_option1 = "낮음",
+      Sandbox_MorePlushies_LootGeneral_option2 = "보통",
+      Sandbox_MorePlushies_LootGeneral_option3 = "높음",
+      Sandbox_MorePlushies_LootGeneral_option4 = "매우 높음",
+      Sandbox_MorePlushies_LootGeneral_option5 = "광기",
+}

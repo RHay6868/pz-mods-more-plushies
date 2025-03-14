@@ -1,0 +1,531 @@
+module Base {
+
+	item PigPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Pinky Pig,
+		Icon 				= 	PigPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	PigPlush,
+		StaticModel 		= 	PigPlush_Static,
+	}
+
+	item AxolotlPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Marshmallow the Axolotl,
+		Icon 				= 	AxolotlPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	AxolotlPlush,
+		StaticModel 		= 	AxolotlPlush_Static,
+	}
+
+	item RoyalePlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Royale Burger,
+		Icon 				= 	RoyalePlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	RoyalePlush,
+		StaticModel 		= 	RoyalePlush_Static,
+	}
+	
+	item BioPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Bio Spiffo,
+		Icon 				= 	BioPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	BioPlush,
+		StaticModel 		= 	BioPlush_Static,
+	}
+	
+	item BatmanPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Batman Spiffo,
+		Icon 				= 	BatmanPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	BatmanPlush,
+		StaticModel 		= 	BatmanPlush_Static,
+	}
+	
+	item StitchesPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Stitches Spiffo,
+		Icon 				= 	StitchesPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	StitchesPlush,
+		StaticModel 		= 	StitchesPlush_Static,
+	}
+	
+	item ChocobiPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Chocobi,
+		Icon 				= 	ChocobiPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	ChocobiPlush,
+		StaticModel 		= 	ChocobiPlush_Static,
+	}
+	
+	item GrebdiozPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Grebdioz,
+		Icon 				= 	GrebdiozPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	GrebdiozPlush,
+		StaticModel 		= 	GrebdiozPlush_Static,
+	}
+	
+	item GIRPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	GIR Disguise,
+		Icon 				= 	GIRPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	GIRPlush,
+		StaticModel 		= 	GIRPlush_Static,
+	}
+	
+	item GIR2Plushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	GIR,
+		Icon 				= 	GIR2Plushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	GIR2Plush,
+		StaticModel 		= 	GIR2Plush_Static,
+	}
+
+	item DeathBeePlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Death Bee,
+		Icon 				= 	DeathBeePlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	DeathBeePlush,
+		StaticModel 		= 	DeathBeePlush_Static,
+	}
+	
+	item GroguPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Grogu,
+		Icon 				= 	GroguPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	GroguPlush,
+		StaticModel 		= 	GroguPlush_Static,
+	}
+
+	item MiniMoosePlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Mini Moose,
+		Icon 				= 	MiniMoosePlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	MiniMoosePlush,
+		StaticModel 		= 	MiniMoosePlush_Static,
+	}
+
+	item MishkaPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Mishka Plushie,
+		Icon 				= 	MishkaPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	MishkaPlush,
+		StaticModel 		= 	MishkaPlush_Static,
+		Tooltip 			= 	UI_Item_MishkaPlushie_Description,
+	}
+
+	item CactuarPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Cactuar,
+		Icon 				= 	CactuarPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	CactuarPlush,
+		StaticModel 		= 	CactuarPlush_Static,
+	}
+
+	item MogPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Mog the Moogle,
+		Icon 				= 	MogPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	MogPlush,
+		StaticModel 		= 	MogPlush_Static,
+	}
+
+	item ReiPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Rei chikita,
+		Icon 				= 	ReiPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	ReiPlush,
+		StaticModel 		= 	ReiPlush_Static,
+	}
+
+	item PochitaPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Pochita,
+		Icon 				= 	PochitaPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	PochitaPlush,
+		StaticModel 		= 	PochitaPlush_Static,
+	}
+
+	item DaveMinionPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Dave,
+		Icon 				= 	DaveMinionPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	DaveMinionPlush,
+		StaticModel 		= 	DaveMinionPlush_Static,
+	}
+
+	item UddersPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Udders the Cow,
+		Icon 				= 	UddersPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	UddersPlush,
+		StaticModel 		= 	UddersPlush_Static,
+	}
+
+	item GnomeAmericanPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Gnome USA,
+		Icon 				= 	GnomeAmericanPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	GnomeAmericanPlush,
+		StaticModel 		= 	GnomeAmericanPlush_Static,
+	}
+
+	item ShredderPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Shredder,
+		Icon 				= 	ShredderPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	ShredderPlush,
+		StaticModel 		= 	ShredderPlush_Static,
+	}
+
+	item SplinterPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Splinter,
+		Icon 				= 	SplinterPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	SplinterPlush,
+		StaticModel 		= 	SplinterPlush_Static,
+	}
+
+	item LeonardoPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Leonardo,
+		Icon 				= 	LeonardoPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	LeonardoPlush,
+		StaticModel 		= 	LeonardoPlush_Static,
+	}
+
+	item RaphaelPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Raphael,
+		Icon 				= 	RaphaelPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	RaphaelPlush,
+		StaticModel 		= 	RaphaelPlush_Static,
+	}
+
+	item DonatelloPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Donatello,
+		Icon 				= 	DonatelloPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	DonatelloPlush,
+		StaticModel 		= 	DonatelloPlush_Static,
+	}
+
+	item MichelangeloPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Michelangelo,
+		Icon 				= 	MichelangeloPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	MichelangeloPlush,
+		StaticModel 		= 	MichelangeloPlush_Static,
+	}
+
+	item PinkKittenPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Pink Kitten,
+		Icon 				= 	PinkKittenPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	PinkKittenPlush,
+		StaticModel 		= 	PinkKittenPlush_Static,
+	}
+
+	item FloppyPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Floppy Plushie,
+		Icon 				= 	FloppyPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	FloppyPlush,
+		StaticModel 		= 	FloppyPlush_Static,
+	}
+
+	item GoatPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Goat Plushie,
+		Icon 				= 	GoatPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	GoatPlush,
+		StaticModel 		= 	GoatPlush_Static,
+	}
+
+	item UnicornPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Unicorn Plushie,
+		Icon 				= 	UnicornPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	UnicornPlush,
+		StaticModel 		= 	UnicornPlush_Static,
+	}
+
+	item TurtlePlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Turtle Plushie,
+		Icon 				= 	TurtlePlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	TurtlePlush,
+		StaticModel 		= 	TurtlePlush_Static,
+	}
+
+	item OtterPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Otter Plushie,
+		Icon 				= 	OtterPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	OtterPlush,
+		StaticModel 		= 	OtterPlush_Static,
+	}
+
+	item Porg1Plushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Porg Plushie,
+		Icon 				= 	Porg1Plushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	Porg1Plush,
+		StaticModel 		= 	Porg1Plush_Static,
+	}
+
+	item Porg2Plushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Porg Plushie,
+		Icon 				= 	Porg2Plushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	Porg2Plush,
+		StaticModel 		= 	Porg2Plush_Static,
+	}
+
+	item Ewok1Plushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Ewok Plushie,
+		Icon 				= 	Ewok1Plushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	Ewok1Plush,
+		StaticModel 		= 	Ewok1Plush_Static,
+	}
+
+	item Ewok2Plushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Ewok Plushie,
+		Icon 				= 	Ewok2Plushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	Ewok2Plush,
+		StaticModel 		= 	Ewok2Plush_Static,
+	}
+
+	item MikeWazowskiPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Mike Wazowski Plushie,
+		Icon 				= 	MikeWazowskiPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	MikeWazowskiPlush,
+		StaticModel 		= 	MikeWazowskiPlush_Static,
+	}
+
+	item SullyPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Sully Plushie,
+		Icon 				= 	SullyPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	SullyPlush,
+		StaticModel 		= 	SullyPlush_Static,
+	}
+
+	item StitchPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Stitch Plushie,
+		Icon 				= 	StitchPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	StitchPlush,
+		StaticModel 		= 	StitchPlush_Static,
+	}
+
+	item HexDollPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Hex Doll Plushie,
+		Icon 				= 	HexDollPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	HexDollPlush,
+		StaticModel 		= 	HexDollPlush_Static,
+	}
+
+	item MurderMonkeyPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Murder Monkey Plushie,
+		Icon 				= 	MurderMonkeyPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	MurderMonkeyPlush,
+		StaticModel 		= 	MurderMonkeyPlush_Static,
+	}
+
+	item PuarPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Puar Plushie,
+		Icon 				= 	PuarPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	PuarPlush,
+		StaticModel 		= 	PuarPlush_Static,
+	}
+
+	item PiranhaPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Piranha Plushie,
+		Icon 				= 	PiranhaPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	PiranhaPlush,
+		StaticModel 		= 	PiranhaPlush_Static,
+	}
+}

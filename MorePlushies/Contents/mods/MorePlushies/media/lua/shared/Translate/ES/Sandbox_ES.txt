@@ -1,0 +1,12 @@
+Sandbox_ES = {
+   Sandbox_MorePlushies = "Más Plushies",
+   Sandbox_MorePlushies_LootGeneral = "Configuración de Botín General",
+	Sandbox_MorePlushies_LootGeneral_tooltip = "Establece la cantidad base de Peluches que se saque en la distribución",
+   Sandbox_MorePlushies_SpawnRate = "Multiplicador de Tasa de Aparición",
+   Sandbox_MorePlushies_SpawnRate_tooltip = "La aparición predeterminada es muy baja, cuanto más alto sea el número, más abundantes serán las apariciones",
+      Sandbox_MorePlushies_LootGeneral_option1 = "Bajo",
+      Sandbox_MorePlushies_LootGeneral_option2 = "Normal",
+      Sandbox_MorePlushies_LootGeneral_option3 = "Alto",
+      Sandbox_MorePlushies_LootGeneral_option4 = "Muy Alto",
+      Sandbox_MorePlushies_LootGeneral_option5 = "Locura",
+}

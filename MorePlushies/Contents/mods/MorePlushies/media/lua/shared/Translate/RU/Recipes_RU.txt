@@ -1,0 +1,4 @@
+Recipes_RU = {
+	Recipe_Zip = "Архивация",
+	Recipe_Unzip = "Разархивация",
+}

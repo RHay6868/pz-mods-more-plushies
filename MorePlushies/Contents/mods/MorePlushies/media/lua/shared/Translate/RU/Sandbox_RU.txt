@@ -1,0 +1,12 @@
+Sandbox_RU = {
+   Sandbox_MorePlushies = "Больше мягких игрушек",
+   Sandbox_MorePlushies_LootGeneral = "Общие настройки добычи",
+	Sandbox_MorePlushies_LootGeneral_tooltip = "Определяет базовое количество мягких игрушек, которые можно добыть в распределении",
+   Sandbox_MorePlushies_SpawnRate = "Множитель частоты спавна",
+   Sandbox_MorePlushies_SpawnRate_tooltip = "По умолчанию спавн очень низок, чем выше число, тем более обильным будет спавн",
+      Sandbox_MorePlushies_LootGeneral_option1 = "Низкий",
+      Sandbox_MorePlushies_LootGeneral_option2 = "Нормальный",
+      Sandbox_MorePlushies_LootGeneral_option3 = "Высокий",
+      Sandbox_MorePlushies_LootGeneral_option4 = "Очень высокий",
+      Sandbox_MorePlushies_LootGeneral_option5 = "Безумный",
+}

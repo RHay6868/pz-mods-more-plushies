@@ -1,0 +1,4 @@
+Recipes_ES = {
+	Recipe_Zip = "Comprimir",
+	Recipe_Unzip = "Descomprimir",
+}
