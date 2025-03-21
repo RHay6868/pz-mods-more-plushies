@@ -1,2 +1,18 @@
-# Auto detect text files and perform LF normalization
+# Normalize all text files for cross-platform line endings
 * text=auto
+
+# Treat Lua files as source code
+*.lua text diff
+
+# Common script & config files
+*.xml text
+*.json text
+*.script text
+*.txt text
+
+# Image files – mark binary (for safety in diffs)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.dds binary

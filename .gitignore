@@ -1,0 +1,27 @@
+# OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary & backup files
+*~
+*.bak
+*.tmp
+
+# Log files and runtime
+*.log
+logs/
+
+# Build artifacts (ZIPs or packs)
+*.zip
+
+# Steam Workshop or personal install paths (local only)
+Zomboid/mods/
+mods/**/modData/
