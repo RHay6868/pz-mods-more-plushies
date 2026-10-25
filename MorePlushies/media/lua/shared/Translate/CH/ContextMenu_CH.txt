@@ -1,0 +1,4 @@
+ContextMenu_CH = 
+{
+	ContextMenu_MorePlushies_OpenBinder = "毛絨玩偶收藏冊",
+}

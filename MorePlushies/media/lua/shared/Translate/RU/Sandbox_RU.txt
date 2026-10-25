@@ -1,0 +1,45 @@
+Sandbox_RU = {
+    Sandbox_MorePlushies = "Больше плюшевых игрушек",
+
+    Sandbox_MorePlushies_Loot = "Появление плюшевых игрушек",
+    Sandbox_MorePlushies_Loot_tooltip = "Главный переключатель для появления всех плюшевых игрушек. Установите «Нет», чтобы полностью отключить.",
+    Sandbox_MorePlushies_Loot_option1 = "Нет",
+    Sandbox_MorePlushies_Loot_option2 = "Низкое",
+    Sandbox_MorePlushies_Loot_option3 = "Нормальное",
+    Sandbox_MorePlushies_Loot_option4 = "Высокое",
+    Sandbox_MorePlushies_Loot_option5 = "Очень высокое",
+    Sandbox_MorePlushies_Loot_option6 = "Безумное",
+
+    Sandbox_MorePlushies_CommonPlushies = "Обычные плюшевые игрушки",
+    Sandbox_MorePlushies_CommonPlushies_tooltip = "Включить или отключить плюшевые игрушки обычного уровня.",
+
+    Sandbox_MorePlushies_CommonPlushiesRates = "Обычные плюшевые игрушки — Частота",
+    Sandbox_MorePlushies_CommonPlushiesRates_tooltip = "Интенсивность появления обычных плюшевых игрушек. Не действует, если обычные плюшевые игрушки отключены.",
+
+    Sandbox_MorePlushies_UncommonPlushies = "Необычные плюшевые игрушки",
+    Sandbox_MorePlushies_UncommonPlushies_tooltip = "Включить или отключить плюшевые игрушки необычного уровня.",
+
+    Sandbox_MorePlushies_UncommonPlushiesRates = "Необычные плюшевые игрушки — Частота",
+    Sandbox_MorePlushies_UncommonPlushiesRates_tooltip = "Интенсивность появления необычных плюшевых игрушек. Не действует, если необычные плюшевые игрушки отключены.",
+
+    Sandbox_MorePlushies_RarePlushies = "Редкие плюшевые игрушки",
+    Sandbox_MorePlushies_RarePlushies_tooltip = "Включить или отключить редкие плюшевые игрушки.",
+
+    Sandbox_MorePlushies_RarePlushiesRates = "Редкие плюшевые игрушки — Частота",
+    Sandbox_MorePlushies_RarePlushiesRates_tooltip = "Интенсивность появления редких плюшевых игрушек. Редкие предметы сильно ограничены и остаются редкими даже при высоких настройках.",
+
+    Sandbox_MorePlushies_VeryRarePlushies = "Очень редкие плюшевые игрушки",
+    Sandbox_MorePlushies_VeryRarePlushies_tooltip = "Включить очень редкие плюшевые игрушки. По умолчанию отключено. Требует явного включения.",
+
+    Sandbox_MorePlushies_VeryRarePlushiesRates = "Очень редкие плюшевые игрушки — Частота",
+    Sandbox_MorePlushies_VeryRarePlushiesRates_tooltip = "Интенсивность появления очень редких плюшевых игрушек. Не действует, если очень редкие плюшевые игрушки отключены.",
+
+    Sandbox_MorePlushies_LocationsToy = "Игрушечные локации",
+    Sandbox_MorePlushies_LocationsToy_tooltip = "Разрешить появление плюшевых игрушек в локациях, связанных с игрушками, например в ящиках с игрушками и на полках игрушечных магазинов.",
+
+    Sandbox_MorePlushies_LocationsGeneral = "Общие локации",
+    Sandbox_MorePlushies_LocationsGeneral_tooltip = "Разрешить появление плюшевых игрушек в обычных локациях, например в классах, детских садах и ящиках с хламом.",
+
+    Sandbox_MorePlushies_LocationsIncidental = "Случайные локации",
+    Sandbox_MorePlushies_LocationsIncidental_tooltip = "Разрешить редкое случайное появление плюшевых игрушек в таких местах, как кухни.",
+}

@@ -1,0 +1,5 @@
+Recipes_ES = {
+	Recipe_Zip = "Comprimir",
+	Recipe_Unzip = "Descomprimir",
+	Recipe_MakePlushieBinder = "Crear carpeta de peluches",
+}

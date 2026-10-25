@@ -1,0 +1,9 @@
+IGUI_ES = {
+	IGUI_MP_BrowseCollection = "Ver colección",
+	IGUI_MP_CollectionTitle = "Colección de peluches",
+	IGUI_MP_Vanilla = "Originales",
+	IGUI_MP_Common = "Comunes",
+	IGUI_MP_Uncommon = "Poco comunes",
+	IGUI_MP_Rare = "Raros",
+	IGUI_MP_VeryRare = "Muy raros",
+}

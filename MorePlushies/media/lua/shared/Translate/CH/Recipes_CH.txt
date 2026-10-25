@@ -1,0 +1,6 @@
+Recipes_CH = {
+	Recipe_Zip = "壓縮",
+	Recipe_Unzip = "解壓縮",
+	Recipe_MakePlushieBinder = "製作收藏冊",
+}
+

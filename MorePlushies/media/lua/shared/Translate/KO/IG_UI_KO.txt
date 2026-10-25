@@ -1,0 +1,9 @@
+IGUI_KO = {
+	IGUI_MP_BrowseCollection = "컬렉션 열기",
+	IGUI_MP_CollectionTitle = "인형 컬렉션",
+	IGUI_MP_Vanilla = "기본",
+	IGUI_MP_Common = "일반",
+	IGUI_MP_Uncommon = "희귀",
+	IGUI_MP_Rare = "레어",
+	IGUI_MP_VeryRare = "매우 레어",
+}

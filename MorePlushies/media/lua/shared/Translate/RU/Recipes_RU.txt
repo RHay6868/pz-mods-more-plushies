@@ -1,0 +1,5 @@
+Recipes_RU = {
+	Recipe_Zip = "Архивация",
+	Recipe_Unzip = "Разархивация",
+	Recipe_MakePlushieBinder = "Сделать альбом плюшевых игрушек",
+}

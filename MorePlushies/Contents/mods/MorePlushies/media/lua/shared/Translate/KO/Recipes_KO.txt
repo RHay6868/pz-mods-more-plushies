@@ -1,5 +1,0 @@
-Recipes_KO = {
-	Recipe_Zip = "압축",
-	Recipe_Unzip = "압축 해제",
-}
-

@@ -1,0 +1,9 @@
+IGUI_CN = {
+	IGUI_MP_BrowseCollection = "查看收藏",
+	IGUI_MP_CollectionTitle = "毛绒玩具收藏",
+	IGUI_MP_Vanilla = "原版",
+	IGUI_MP_Common = "普通",
+	IGUI_MP_Uncommon = "稀有",
+	IGUI_MP_Rare = "罕见",
+	IGUI_MP_VeryRare = "极其罕见",
+}

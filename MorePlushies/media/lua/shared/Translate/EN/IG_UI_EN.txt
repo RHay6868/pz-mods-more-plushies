@@ -1,0 +1,9 @@
+IGUI_EN = {
+	IGUI_MP_CollectionTitle   = "Plushie Collection",
+	IGUI_MP_BrowseCollection  = "Browse Collection",
+	IGUI_MP_Vanilla           = "Vanilla",
+	IGUI_MP_Common            = "Common",
+	IGUI_MP_Uncommon          = "Uncommon",
+	IGUI_MP_Rare              = "Rare",
+	IGUI_MP_VeryRare          = "Very Rare",
+}

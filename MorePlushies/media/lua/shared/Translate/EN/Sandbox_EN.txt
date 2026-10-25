@@ -1,0 +1,45 @@
+Sandbox_EN = {
+    Sandbox_MorePlushies = "More Plushies",
+
+    Sandbox_MorePlushies_Loot = "Plushie Loot",
+    Sandbox_MorePlushies_Loot_tooltip = "Master switch for all plushie spawns. Set to None to disable completely.",
+    Sandbox_MorePlushies_Loot_option1 = "None",
+    Sandbox_MorePlushies_Loot_option2 = "Low",
+    Sandbox_MorePlushies_Loot_option3 = "Normal",
+    Sandbox_MorePlushies_Loot_option4 = "High",
+    Sandbox_MorePlushies_Loot_option5 = "Very High",
+    Sandbox_MorePlushies_Loot_option6 = "Insane",
+
+    Sandbox_MorePlushies_CommonPlushies = "Common Plushies",
+    Sandbox_MorePlushies_CommonPlushies_tooltip = "Enable or disable common tier plushies.",
+
+    Sandbox_MorePlushies_CommonPlushiesRates = "Common Plushies - Rate",
+    Sandbox_MorePlushies_CommonPlushiesRates_tooltip = "Spawn intensity for common plushies. Has no effect when Common Plushies is disabled.",
+
+    Sandbox_MorePlushies_UncommonPlushies = "Uncommon Plushies",
+    Sandbox_MorePlushies_UncommonPlushies_tooltip = "Enable or disable uncommon tier plushies.",
+
+    Sandbox_MorePlushies_UncommonPlushiesRates = "Uncommon Plushies - Rate",
+    Sandbox_MorePlushies_UncommonPlushiesRates_tooltip = "Spawn intensity for uncommon plushies. Has no effect when Uncommon Plushies is disabled.",
+
+    Sandbox_MorePlushies_RarePlushies = "Rare Plushies",
+    Sandbox_MorePlushies_RarePlushies_tooltip = "Enable or disable rare tier plushies.",
+
+    Sandbox_MorePlushies_RarePlushiesRates = "Rare Plushies - Rate",
+    Sandbox_MorePlushies_RarePlushiesRates_tooltip = "Spawn intensity for rare plushies. Rare items are heavily dampened and stay scarce even at high settings.",
+
+    Sandbox_MorePlushies_VeryRarePlushies = "Very Rare Plushies",
+    Sandbox_MorePlushies_VeryRarePlushies_tooltip = "Enable Very Rare plushies. Off by default. Requires explicit opt-in.",
+
+    Sandbox_MorePlushies_VeryRarePlushiesRates = "Very Rare Plushies - Rate",
+    Sandbox_MorePlushies_VeryRarePlushiesRates_tooltip = "Spawn intensity for Very Rare plushies. Has no effect when Very Rare Plushies is disabled.",
+
+    Sandbox_MorePlushies_LocationsToy = "Toy Locations",
+    Sandbox_MorePlushies_LocationsToy_tooltip = "Allow plushies to spawn in toy-specific locations such as toy crates and toy store shelves.",
+
+    Sandbox_MorePlushies_LocationsGeneral = "General Locations",
+    Sandbox_MorePlushies_LocationsGeneral_tooltip = "Allow plushies to spawn in general locations such as classrooms, daycares, and junk crates.",
+
+    Sandbox_MorePlushies_LocationsIncidental = "Incidental Locations",
+    Sandbox_MorePlushies_LocationsIncidental_tooltip = "Allow plushies to appear as rare incidental finds in locations like kitchens.",
+}

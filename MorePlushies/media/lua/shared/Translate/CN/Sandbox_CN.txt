@@ -1,0 +1,45 @@
+Sandbox_CN = {
+    Sandbox_MorePlushies = "更多毛绒玩具",
+
+    Sandbox_MorePlushies_Loot = "毛绒玩具战利品",
+    Sandbox_MorePlushies_Loot_tooltip = "所有毛绒玩具生成的总开关。设为“无”即可完全禁用。",
+    Sandbox_MorePlushies_Loot_option1 = "无",
+    Sandbox_MorePlushies_Loot_option2 = "低",
+    Sandbox_MorePlushies_Loot_option3 = "正常",
+    Sandbox_MorePlushies_Loot_option4 = "高",
+    Sandbox_MorePlushies_Loot_option5 = "非常高",
+    Sandbox_MorePlushies_Loot_option6 = "疯狂",
+
+    Sandbox_MorePlushies_CommonPlushies = "普通毛绒玩具",
+    Sandbox_MorePlushies_CommonPlushies_tooltip = "启用或禁用普通等级的毛绒玩具。",
+
+    Sandbox_MorePlushies_CommonPlushiesRates = "普通毛绒玩具 - 生成率",
+    Sandbox_MorePlushies_CommonPlushiesRates_tooltip = "普通毛绒玩具的生成强度。若已禁用普通毛绒玩具，则此项无效。",
+
+    Sandbox_MorePlushies_UncommonPlushies = "稀有毛绒玩具",
+    Sandbox_MorePlushies_UncommonPlushies_tooltip = "启用或禁用稀有等级的毛绒玩具。",
+
+    Sandbox_MorePlushies_UncommonPlushiesRates = "稀有毛绒玩具 - 生成率",
+    Sandbox_MorePlushies_UncommonPlushiesRates_tooltip = "稀有毛绒玩具的生成强度。若已禁用稀有毛绒玩具，则此项无效。",
+
+    Sandbox_MorePlushies_RarePlushies = "罕见毛绒玩具",
+    Sandbox_MorePlushies_RarePlushies_tooltip = "启用或禁用罕见等级的毛绒玩具。",
+
+    Sandbox_MorePlushies_RarePlushiesRates = "罕见毛绒玩具 - 生成率",
+    Sandbox_MorePlushies_RarePlushiesRates_tooltip = "罕见毛绒玩具的生成强度。罕见物品即使在高设置下也会保持稀少。",
+
+    Sandbox_MorePlushies_VeryRarePlushies = "极其罕见的毛绒玩具",
+    Sandbox_MorePlushies_VeryRarePlushies_tooltip = "启用极其罕见的毛绒玩具。默认关闭，需要手动启用。",
+
+    Sandbox_MorePlushies_VeryRarePlushiesRates = "极其罕见的毛绒玩具 - 生成率",
+    Sandbox_MorePlushies_VeryRarePlushiesRates_tooltip = "极其罕见毛绒玩具的生成强度。若已禁用极其罕见的毛绒玩具，则此项无效。",
+
+    Sandbox_MorePlushies_LocationsToy = "玩具地点",
+    Sandbox_MorePlushies_LocationsToy_tooltip = "允许毛绒玩具出现在玩具相关地点，例如玩具箱和玩具店货架。",
+
+    Sandbox_MorePlushies_LocationsGeneral = "一般地点",
+    Sandbox_MorePlushies_LocationsGeneral_tooltip = "允许毛绒玩具出现在一般地点，例如教室、托儿所和杂物箱。",
+
+    Sandbox_MorePlushies_LocationsIncidental = "偶发地点",
+    Sandbox_MorePlushies_LocationsIncidental_tooltip = "允许毛绒玩具作为罕见的偶发发现出现在厨房等地点。",
+}

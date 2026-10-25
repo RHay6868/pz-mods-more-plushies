@@ -1,0 +1,106 @@
+VERSION = 1,
+
+option MorePlushies.Loot
+{
+	type = enum,
+	default = 3,
+	numValues = 6,
+	page = MorePlushies,
+	translation = MorePlushies_Loot,
+}
+
+option MorePlushies.CommonPlushies
+{
+	type = boolean,
+	default = true,
+	page = MorePlushies,
+	translation = MorePlushies_CommonPlushies,
+}
+
+option MorePlushies.CommonPlushiesRates
+{
+	type = integer,
+	default = 50,
+	min = 1,
+	max = 100,
+	page = MorePlushies,
+	translation = MorePlushies_CommonPlushiesRates,
+}
+
+option MorePlushies.UncommonPlushies
+{
+	type = boolean,
+	default = true,
+	page = MorePlushies,
+	translation = MorePlushies_UncommonPlushies,
+}
+
+option MorePlushies.UncommonPlushiesRates
+{
+	type = integer,
+	default = 40,
+	min = 1,
+	max = 100,
+	page = MorePlushies,
+	translation = MorePlushies_UncommonPlushiesRates,
+}
+
+option MorePlushies.RarePlushies
+{
+	type = boolean,
+	default = true,
+	page = MorePlushies,
+	translation = MorePlushies_RarePlushies,
+}
+
+option MorePlushies.RarePlushiesRates
+{
+	type = integer,
+	default = 30,
+	min = 1,
+	max = 100,
+	page = MorePlushies,
+	translation = MorePlushies_RarePlushiesRates,
+}
+
+option MorePlushies.VeryRarePlushies
+{
+	type = boolean,
+	default = false,
+	page = MorePlushies,
+	translation = MorePlushies_VeryRarePlushies,
+}
+
+option MorePlushies.VeryRarePlushiesRates
+{
+	type = integer,
+	default = 15,
+	min = 1,
+	max = 100,
+	page = MorePlushies,
+	translation = MorePlushies_VeryRarePlushiesRates,
+}
+
+option MorePlushies.LocationsToy
+{
+	type = boolean,
+	default = true,
+	page = MorePlushies,
+	translation = MorePlushies_LocationsToy,
+}
+
+option MorePlushies.LocationsGeneral
+{
+	type = boolean,
+	default = true,
+	page = MorePlushies,
+	translation = MorePlushies_LocationsGeneral,
+}
+
+option MorePlushies.LocationsIncidental
+{
+	type = boolean,
+	default = true,
+	page = MorePlushies,
+	translation = MorePlushies_LocationsIncidental,
+}

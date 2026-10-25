@@ -1,5 +1,0 @@
-Recipes_EN = {
-	Recipe_Zip = "Zip",
-	Recipe_Unzip = "Unzip",
-}
-

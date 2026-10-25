@@ -1,0 +1,45 @@
+Sandbox_ES = {
+    Sandbox_MorePlushies = "Más peluches",
+
+    Sandbox_MorePlushies_Loot = "Botín de peluches",
+    Sandbox_MorePlushies_Loot_tooltip = "Interruptor principal para la aparición de todos los peluches. Elige \"Ninguno\" para desactivarlos por completo.",
+    Sandbox_MorePlushies_Loot_option1 = "Ninguno",
+    Sandbox_MorePlushies_Loot_option2 = "Bajo",
+    Sandbox_MorePlushies_Loot_option3 = "Normal",
+    Sandbox_MorePlushies_Loot_option4 = "Alto",
+    Sandbox_MorePlushies_Loot_option5 = "Muy alto",
+    Sandbox_MorePlushies_Loot_option6 = "Demencial",
+
+    Sandbox_MorePlushies_CommonPlushies = "Peluches comunes",
+    Sandbox_MorePlushies_CommonPlushies_tooltip = "Activar o desactivar los peluches de nivel común.",
+
+    Sandbox_MorePlushies_CommonPlushiesRates = "Peluches comunes - Frecuencia",
+    Sandbox_MorePlushies_CommonPlushiesRates_tooltip = "Intensidad de aparición de los peluches comunes. No tiene efecto si los peluches comunes están desactivados.",
+
+    Sandbox_MorePlushies_UncommonPlushies = "Peluches poco comunes",
+    Sandbox_MorePlushies_UncommonPlushies_tooltip = "Activar o desactivar los peluches de nivel poco común.",
+
+    Sandbox_MorePlushies_UncommonPlushiesRates = "Peluches poco comunes - Frecuencia",
+    Sandbox_MorePlushies_UncommonPlushiesRates_tooltip = "Intensidad de aparición de los peluches poco comunes. No tiene efecto si los peluches poco comunes están desactivados.",
+
+    Sandbox_MorePlushies_RarePlushies = "Peluches raros",
+    Sandbox_MorePlushies_RarePlushies_tooltip = "Activar o desactivar los peluches raros.",
+
+    Sandbox_MorePlushies_RarePlushiesRates = "Peluches raros - Frecuencia",
+    Sandbox_MorePlushies_RarePlushiesRates_tooltip = "Intensidad de aparición de los peluches raros. Los objetos raros están muy atenuados y siguen siendo escasos incluso con ajustes altos.",
+
+    Sandbox_MorePlushies_VeryRarePlushies = "Peluches muy raros",
+    Sandbox_MorePlushies_VeryRarePlushies_tooltip = "Activar los peluches muy raros. Desactivado por defecto. Requiere activación manual.",
+
+    Sandbox_MorePlushies_VeryRarePlushiesRates = "Peluches muy raros - Frecuencia",
+    Sandbox_MorePlushies_VeryRarePlushiesRates_tooltip = "Intensidad de aparición de los peluches muy raros. No tiene efecto si los peluches muy raros están desactivados.",
+
+    Sandbox_MorePlushies_LocationsToy = "Ubicaciones de juguetes",
+    Sandbox_MorePlushies_LocationsToy_tooltip = "Permitir que los peluches aparezcan en ubicaciones específicas de juguetes, como cajas de juguetes y estanterías de jugueterías.",
+
+    Sandbox_MorePlushies_LocationsGeneral = "Ubicaciones generales",
+    Sandbox_MorePlushies_LocationsGeneral_tooltip = "Permitir que los peluches aparezcan en ubicaciones generales, como aulas, guarderías y cajas de trastos.",
+
+    Sandbox_MorePlushies_LocationsIncidental = "Ubicaciones incidentales",
+    Sandbox_MorePlushies_LocationsIncidental_tooltip = "Permitir que los peluches aparezcan como hallazgos incidentales raros en lugares como cocinas.",
+}

@@ -1,0 +1,45 @@
+Sandbox_KO = {
+    Sandbox_MorePlushies = "더 많은 인형",
+
+    Sandbox_MorePlushies_Loot = "인형 전리품",
+    Sandbox_MorePlushies_Loot_tooltip = "모든 인형 스폰에 대한 마스터 설정입니다. \"없음\"으로 설정하면 완전히 비활성화됩니다.",
+    Sandbox_MorePlushies_Loot_option1 = "없음",
+    Sandbox_MorePlushies_Loot_option2 = "낮음",
+    Sandbox_MorePlushies_Loot_option3 = "보통",
+    Sandbox_MorePlushies_Loot_option4 = "높음",
+    Sandbox_MorePlushies_Loot_option5 = "매우 높음",
+    Sandbox_MorePlushies_Loot_option6 = "광기",
+
+    Sandbox_MorePlushies_CommonPlushies = "일반 인형",
+    Sandbox_MorePlushies_CommonPlushies_tooltip = "일반 등급 인형의 활성화 여부를 설정합니다.",
+
+    Sandbox_MorePlushies_CommonPlushiesRates = "일반 인형 - 출현율",
+    Sandbox_MorePlushies_CommonPlushiesRates_tooltip = "일반 인형의 스폰 강도입니다. 일반 인형이 비활성화되어 있으면 적용되지 않습니다.",
+
+    Sandbox_MorePlushies_UncommonPlushies = "고급 인형",
+    Sandbox_MorePlushies_UncommonPlushies_tooltip = "고급 등급 인형의 활성화 여부를 설정합니다.",
+
+    Sandbox_MorePlushies_UncommonPlushiesRates = "고급 인형 - 출현율",
+    Sandbox_MorePlushies_UncommonPlushiesRates_tooltip = "고급 인형의 스폰 강도입니다. 고급 인형이 비활성화되어 있으면 적용되지 않습니다.",
+
+    Sandbox_MorePlushies_RarePlushies = "희귀 인형",
+    Sandbox_MorePlushies_RarePlushies_tooltip = "희귀 등급 인형의 활성화 여부를 설정합니다.",
+
+    Sandbox_MorePlushies_RarePlushiesRates = "희귀 인형 - 출현율",
+    Sandbox_MorePlushies_RarePlushiesRates_tooltip = "희귀 인형의 스폰 강도입니다. 희귀 아이템은 높은 설정에서도 여전히 드물게 유지됩니다.",
+
+    Sandbox_MorePlushies_VeryRarePlushies = "매우 희귀한 인형",
+    Sandbox_MorePlushies_VeryRarePlushies_tooltip = "매우 희귀한 인형을 활성화합니다. 기본값은 꺼짐이며, 직접 활성화해야 합니다.",
+
+    Sandbox_MorePlushies_VeryRarePlushiesRates = "매우 희귀한 인형 - 출현율",
+    Sandbox_MorePlushies_VeryRarePlushiesRates_tooltip = "매우 희귀한 인형의 스폰 강도입니다. 매우 희귀한 인형이 비활성화되어 있으면 적용되지 않습니다.",
+
+    Sandbox_MorePlushies_LocationsToy = "장난감 위치",
+    Sandbox_MorePlushies_LocationsToy_tooltip = "장난감 상자나 장난감 가게 진열대처럼 장난감 관련 위치에서 인형이 스폰되도록 허용합니다.",
+
+    Sandbox_MorePlushies_LocationsGeneral = "일반 위치",
+    Sandbox_MorePlushies_LocationsGeneral_tooltip = "교실, 어린이집, 잡동사니 상자 같은 일반 위치에서 인형이 스폰되도록 허용합니다.",
+
+    Sandbox_MorePlushies_LocationsIncidental = "우발적 위치",
+    Sandbox_MorePlushies_LocationsIncidental_tooltip = "주방 같은 장소에서 드물게 우발적으로 인형이 발견되도록 허용합니다.",
+}

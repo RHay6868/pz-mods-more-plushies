@@ -1,0 +1,6 @@
+Recipes_KO = {
+	Recipe_Zip = "압축",
+	Recipe_Unzip = "압축 해제",	
+	Recipe_MakePlushieBinder = "인형 바인더 제작",
+}
+

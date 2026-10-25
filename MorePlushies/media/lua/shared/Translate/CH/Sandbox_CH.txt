@@ -1,0 +1,45 @@
+Sandbox_CH = {
+    Sandbox_MorePlushies = "更多毛絨玩偶",
+
+    Sandbox_MorePlushies_Loot = "毛絨玩偶戰利品",
+    Sandbox_MorePlushies_Loot_tooltip = "所有毛絨玩偶生成的總開關。設為「無」即可完全停用。",
+    Sandbox_MorePlushies_Loot_option1 = "無",
+    Sandbox_MorePlushies_Loot_option2 = "低",
+    Sandbox_MorePlushies_Loot_option3 = "正常",
+    Sandbox_MorePlushies_Loot_option4 = "高",
+    Sandbox_MorePlushies_Loot_option5 = "非常高",
+    Sandbox_MorePlushies_Loot_option6 = "瘋狂",
+
+    Sandbox_MorePlushies_CommonPlushies = "普通毛絨玩偶",
+    Sandbox_MorePlushies_CommonPlushies_tooltip = "啟用或停用普通等級的毛絨玩偶。",
+
+    Sandbox_MorePlushies_CommonPlushiesRates = "普通毛絨玩偶 - 生成率",
+    Sandbox_MorePlushies_CommonPlushiesRates_tooltip = "普通毛絨玩偶的生成強度。若普通毛絨玩偶已停用，則此項無效。",
+
+    Sandbox_MorePlushies_UncommonPlushies = "稀有毛絨玩偶",
+    Sandbox_MorePlushies_UncommonPlushies_tooltip = "啟用或停用稀有等級的毛絨玩偶。",
+
+    Sandbox_MorePlushies_UncommonPlushiesRates = "稀有毛絨玩偶 - 生成率",
+    Sandbox_MorePlushies_UncommonPlushiesRates_tooltip = "稀有毛絨玩偶的生成強度。若稀有毛絨玩偶已停用，則此項無效。",
+
+    Sandbox_MorePlushies_RarePlushies = "罕見毛絨玩偶",
+    Sandbox_MorePlushies_RarePlushies_tooltip = "啟用或停用罕見等級的毛絨玩偶。",
+
+    Sandbox_MorePlushies_RarePlushiesRates = "罕見毛絨玩偶 - 生成率",
+    Sandbox_MorePlushies_RarePlushiesRates_tooltip = "罕見毛絨玩偶的生成強度。罕見物品即使在高設定下也會維持稀少。",
+
+    Sandbox_MorePlushies_VeryRarePlushies = "極稀有毛絨玩偶",
+    Sandbox_MorePlushies_VeryRarePlushies_tooltip = "啟用極稀有毛絨玩偶。預設為關閉，需手動啟用。",
+
+    Sandbox_MorePlushies_VeryRarePlushiesRates = "極稀有毛絨玩偶 - 生成率",
+    Sandbox_MorePlushies_VeryRarePlushiesRates_tooltip = "極稀有毛絨玩偶的生成強度。若極稀有毛絨玩偶已停用，則此項無效。",
+
+    Sandbox_MorePlushies_LocationsToy = "玩具地點",
+    Sandbox_MorePlushies_LocationsToy_tooltip = "允許毛絨玩偶出現在玩具相關地點，例如玩具箱與玩具店貨架。",
+
+    Sandbox_MorePlushies_LocationsGeneral = "一般地點",
+    Sandbox_MorePlushies_LocationsGeneral_tooltip = "允許毛絨玩偶出現在一般地點，例如教室、托兒所與雜物箱。",
+
+    Sandbox_MorePlushies_LocationsIncidental = "偶發地點",
+    Sandbox_MorePlushies_LocationsIncidental_tooltip = "允許毛絨玩偶作為罕見的偶發發現出現在廚房等地點。",
+}

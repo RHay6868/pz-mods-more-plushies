@@ -1,0 +1,9 @@
+IGUI_RU = {
+	IGUI_MP_BrowseCollection = "Открыть коллекцию",
+	IGUI_MP_CollectionTitle = "Коллекция плюшевых игрушек",
+	IGUI_MP_Vanilla = "Оригинальные",
+	IGUI_MP_Common = "Обычные",
+	IGUI_MP_Uncommon = "Необычные",
+	IGUI_MP_Rare = "Редкие",
+	IGUI_MP_VeryRare = "Очень редкие",
+}

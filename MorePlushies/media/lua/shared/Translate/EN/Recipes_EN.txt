@@ -1,0 +1,6 @@
+Recipes_EN = {
+	Recipe_Zip = "Zip",
+	Recipe_Unzip = "Unzip",
+	Recipe_Make_Plushie_Binder = "Make Plushie Collection Binder",
+}
+

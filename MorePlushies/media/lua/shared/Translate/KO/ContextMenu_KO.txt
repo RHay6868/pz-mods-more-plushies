@@ -1,0 +1,3 @@
+ContextMenu_KO = {
+	ContextMenu_MorePlushies_OpenBinder = "컬렉션 열기",
+}

@@ -1,0 +1,10 @@
+name=More Plushies!
+author=RyanHayes
+id=MorePlushies
+description=Adds a collection of plushie items that spawn throughout the world in toy-related locations, classrooms, daycares, and general loot. Plushies can be worn in the plushie attachment slot on bags. Standalone mod. No other mods required. Spawn frequency and overall loot presence are configurable via sandbox settings. Plushie spawns can be disabled entirely by setting Loot to None. Shout out to Authentic Z for the plushie attachment slot inspiration.
+modversion=3.0
+poster=poster.png
+icon=icon.png
+versionMin=41.78.0
+versionMax=
+tags=Build 42;Build 41;Balance;Items;Loot;Collectibles
